@@ -21,7 +21,7 @@ describe("packge-publish", function() {
             const actual = isOdd(-2);
             assert.equal(actual, expected);
         });
-        it("it should throw error if input is invalid", function() {
+        it("it should throw error if the input is invalid", function() {
             assert.throws(() => isOdd("string"));
             assert.throws(() => isOdd(Buffer.alloc(2, 0x1111)));
             assert.throws(() => isOdd(true));
