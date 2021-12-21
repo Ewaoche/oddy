@@ -1,0 +1,19 @@
+{
+  "name": "oddy",
+  "version": "0.0.1",
+  "description": "this is an npm package for testing numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ewaoche/oddy.git"
+  },
+  "author": "mathew ewaoche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ewaoche/oddy/issues"
+  },
+  "homepage": "https://github.com/Ewaoche/oddy#readme"
+}
