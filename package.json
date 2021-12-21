@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ewaoche/oddy/issues"
   },
-  "homepage": "https://github.com/Ewaoche/oddy#readme"
+  "homepage": "https://github.com/Ewaoche/oddy#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
 }
