@@ -1,6 +1,6 @@
 {
   "name": "oddy",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "this is an npm package for testing numbers",
   "main": "index.js",
   "scripts": {
